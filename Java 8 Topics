@@ -1,0 +1,33 @@
+1. Lambda Expressions
+2. Functional Interfaces -- It can be used to call lambda expressions 
+3. Default methods in Interface
+4. Static Methods in Interfaces.
+5. Predicate -- Pre-defined Functional Interface
+6. Function -- Pre-defined Functional Interface
+7. Consumer -- Pre-defined Functional Interface
+8. Supplier 
+9. Method Reference & Constructor Reference by Double Colon(::) Operator.
+10. Stream API -- Operations on collections
+11. Date & Time API ( Joda API)
+
+Till Java 1.7 version, we can only declare public abstract methods and public static final variables inside an interface.
+But from Java 1.8 version, we can declare concrete methods inside interfaces those are called default methods.
+We can also declare static methods inside interfaces.
+
+From Java 1.8 version, now interfaces can include default methods and static methods.
+
+Benefits of Java 1.8
+- To simplify programming
+- To utilize Functional programming in the form of Lamdba Expression 
+- To enable parallel programming or processing in the form of Streams
+
+Method Reference
+- Reference to a Static Method
+- Reference to a Non Static Method
+- Reference to a Contructor
+
+
+
+Stream.of
+list.stream
+IntStream

@@ -1,0 +1,21 @@
+Benefits:
+- To enable functional programming in java
+- write more readable, maintainable & concise code
+- To use APIs very easily and effectively
+- To enable parallel processing
+
+Functional programming is the mathematical way of solving a problem.
+
+Syntax:
+	Parameter -> Expression Body
+
+Arrow operator is introduced in Java through Lambda expressions that divides it into two parts i.e. Parameters & Body
+
+Functional Interface is an interface that contains exactly one abstract method
+It can have any number of default or static methods along with object class methods
+Java provides predefined Functional interfaces to deal with functional programming
+Runnable, ActionListener, Comparable are some of the examples of functional interfaces 
+
+
+Lambda as an Object
+A Java lambda expression is essentially an object that can be assigned to a variable and passed around
